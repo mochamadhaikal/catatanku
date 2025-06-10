@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Catatanku</string>
+    <string name="ct">Catatanku</string>
+    <string name="add_note">Tambah Catatan</string>
+    <string name="edit_note">Edit Catatan</string>
+    <string name="deskripsi">Deskripsi</string>
+</resources>
